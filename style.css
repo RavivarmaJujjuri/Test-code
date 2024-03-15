@@ -1,0 +1,184 @@
+.bg-container {
+    background-image: url("https://lh3.googleusercontent.com/p/AF1QipNsfMgbZv26q6RxGwB5FswVb_O_kmfeRwavXpV5=s1360-w1360-h1020");
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading {
+    font-size: 26px;
+    color: #ffffff
+}
+
+.banner {
+    width: 300px;
+    height: 40px;
+    background-color: grey;
+    padding: 8px;
+    display: flex;
+    border-radius: 18px;
+    justify-content: space-between;
+}
+
+.home-content {
+    font-size: 15px;
+    background-color: darkgrey;
+    width: 50px;
+    height: 28px;
+    padding: 3px;
+    border-radius: 15px;
+}
+
+.banner-content {
+    font-size: 15px;
+}
+
+.heading1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+}
+
+.description {
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.explore-menu-heading {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.card-container {
+    width: 90%;
+    max-width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #ffffff;
+    width: 200px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    border-width: 0;
+    border-radius: 8px;
+}
+
+.image {
+    width: 170px;
+    border-radius: 8px;
+}
+
+.item-name {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.price {
+    font-size: 16px;
+}
+
+.bottom-food-page {
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTM2OTgxMy1pbWFnZS1rd3Z4eHA5MS5qcGc.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bottom-food-page-images {
+    width: 60px;
+    border-radius: 50px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.points {
+    display: flex;
+    margin-left: 20px;
+}
+
+.description1 {
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.bottom-food-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.location-banner {
+    background-image: url("https://img.freepik.com/premium-photo/white-wall-clean-cement-background-textured-blank-copy-space_24076-674.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.location-heading {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.location-description {
+    font-size: 18px;
+    padding-top: 18px;
+    padding-left: 30px;
+}
+
+.location-image {
+    width: 40%;
+    margin-left: 100px;
+    margin: 20px
+}
+
+.footer-section {
+    background-color: #0d2436;
+    width: 100%;
+    height: 35vh;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footer-heading {
+    color: #959ead;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footer-description {
+    color: #959ead;
+    font-size: 14px;
+}
+
+.follow-icons {
+    width: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
